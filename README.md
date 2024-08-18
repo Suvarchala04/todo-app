@@ -6,7 +6,7 @@ It allows users to manage their tasks effectively by adding, editing, and deleti
 
 ## 🚀 Features
 
-Task Management: Users can add, edit, and delete tasks easily.
+Task Management: Users can add, and delete tasks easily.
 
 Responsive Design: The app is fully responsive, ensuring a smooth experience on both desktop and mobile devices.
 
