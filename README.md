@@ -2,7 +2,7 @@
 
 This project is a simple and intuitive ToDo application built with HTML, CSS, JavaScript, and Bootstrap. 
 
-It allows users to manage their tasks effectively by adding, editing, and deleting tasks.
+It allows users to manage their tasks effectively by adding, and deleting tasks.
 
 ## 🚀 Features
 
