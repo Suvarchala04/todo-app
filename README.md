@@ -18,11 +18,9 @@ Interactive UI: Real-time updates to the task list as tasks are added or removed
 
 index.html: The main HTML file that structures the app.
 
-styles.css: Custom CSS for additional styling beyond Bootstrap.
+todo.css: Custom CSS for additional styling beyond Bootstrap.
 
-app.js: The JavaScript file containing all the logic for task management.
-
-assets/: A directory containing any images, icons, or other media used in the app.
+todo.js: The JavaScript file containing all the logic for task management.
 
 ## 🛠️ Technologies Used
 
@@ -52,6 +50,9 @@ Improved understanding of DOM manipulation and event handling in JavaScript.
 https://easy-planner.netlify.app/
 
 ## 🔧 Setup Instructions
+
 ### Clone this repository:
-git clone https://github.com/yourusername/todo-app.git
+
+git clone https://github.com/Suvarchala04/todo-app.git
+
 Open the index.html file in your preferred web browser.
